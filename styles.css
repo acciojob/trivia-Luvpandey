@@ -1,6 +1,10 @@
 
 /* Your CSS Code here. */
 
+form p{
+	font-weight:bold;
+}
+
  blockquote {
             max-width: 600px;
             margin: 10px;
